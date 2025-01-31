@@ -1237,7 +1237,7 @@
  .humidityBar .slider {
      height: 100%;
      width: calc(10% - 60px);
-     min-width: 42%;
+     min-width: 100%;
      background-color: var(--darkColor-red);
      border-radius: 100px;
      position: absolute;
